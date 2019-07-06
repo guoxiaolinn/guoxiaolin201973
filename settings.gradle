@@ -1,1 +1,1 @@
-include ':app', ':guoxiaolin2019732'
+include ':app', ':guoxiaolin2019732', ':aa', ':aaaaaaaa'
